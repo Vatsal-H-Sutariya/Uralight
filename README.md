@@ -1,4 +1,4 @@
-# URALight
+
 
 ![URALight Logo](logo.png)
 
