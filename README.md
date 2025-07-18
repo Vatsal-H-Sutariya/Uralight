@@ -12,8 +12,7 @@ URALight is a simulator for robotic manipulators, providing a physics-enabled tr
 
 ## Download
 
-You can download the latest executable here:  
-[Download URALight (.exe)](link-to-your-exe-file)
+You can download the latest executable from the release
 <!-- Replace 'link-to-your-exe-file' with the actual link after uploading -->
 
 ---
