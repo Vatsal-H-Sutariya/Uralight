@@ -31,10 +31,4 @@ For questions or support, contact: vatsal1401@gmail.com
 
 ---
 
-## License
 
-Specify your license here (e.g., MIT, GPL, etc.)
-
----
-
-(c) 2024 URALight
